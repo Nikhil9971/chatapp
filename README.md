@@ -1,4 +1,4 @@
-#CHATAPP
+#CHAT-APP
 
 • Developed a secure user authentication system, allowing users to register and login into their profiles.
 
